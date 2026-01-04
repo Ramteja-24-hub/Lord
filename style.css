@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    font-family: 'Segeo UI', snas-serif;
+    background: linear-gradient(to bottom, #fff7e6, #ffe0b3);
+    text-align: center;
+}
+header {
+    background: linear-gradient(to right, #7b1e1e, #b03a2e);
+    color: #ffeb99;
+    padding: 20px;
+}
+.mantra {
+    font-size: 20px;
+    margin-top: 10px;
+    text-shadow: 0 0 8px gold;
+}
+.main-image img {
+    width: 300px;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 15px #ffcc66;
+}
+.divine-text {
+    font-size: 18px;
+    margin: 10px;
+}
+.buttons {
+    margin: 30px;
+}
+.buttons {
+    margin: 6px;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    background: #ffcc66;
+    cursor: pointer;
+    font-size: 14px;
+}
+.buttons button:hover {
+    background: green;
+    color: white;
+}
+.info-box {
+    margin: 20px auto;
+    width: 80%;
+    padding: 20px;
+    background: white;
+    border-radius: white;
+    box-shadow: 0 0 10px #ddd;
+    font-size: 16px;
+}
+footer {
+    background: linear-gradient(to right, #7b1e1e, #b03a2e);
+    color: #ffebb9;
+    padding: 10px;
+    margin-top: 30px;
+}
